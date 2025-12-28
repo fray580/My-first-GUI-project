@@ -4,20 +4,21 @@
 ---
 
 # How to install
-**1.
+**1.**
 `Install qt5 or qt6`
 
-arch:
+**arch:**
 ```
 sudo pacman -S qt6-tools
 ```
-Debian:
+**Debian:**
 ```
 sudo apt update
+sudo apt upgrade
 sudo apt install qt6-tools
 ```
 
-2.
+**2.**
 ```
 cd My-first-GUI-project
 mkdir build
