@@ -9,6 +9,7 @@
 
 **arch:**
 ```
+sudo pacman -Syu
 sudo pacman -S qt6-tools
 ```
 **Debian:**
