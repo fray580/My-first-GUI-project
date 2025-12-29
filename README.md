@@ -18,6 +18,7 @@ sudo apt update
 sudo apt upgrade
 sudo apt install qt6-tools
 ```
+---
 
 **2.**
 ```
@@ -28,5 +29,6 @@ cmake ..
 make         
 ./first
 ```
+---
 
 **That's all!** 
